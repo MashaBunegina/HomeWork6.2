@@ -61,8 +61,8 @@ public class Main {
         }
         // Задание 8
         int pastYear = 1822;
-        int futureYear = 2122;
-        for (int r = 0; r <= futureYear; r = r +79){
+        int futureYear1 = 2122;
+        for (int r = 0; r <= futureYear1; r = r +79){
             if (r >= pastYear) {
                 System.out.println(r);
             }
